@@ -12,7 +12,7 @@ export const navItems = [
   { id: 'skills', label: 'Skills' },
   { id: 'services', label: 'Services' },
   { id: 'projects', label: 'Projects' },
-  { id: 'experience', label: 'Process' },
+  { id: 'experience', label: 'Processes' },
 ]
 
 export const stats = [
